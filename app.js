@@ -46,4 +46,5 @@ function limpiarCampoEntrada(){
 
 function limpiarLista(){
     document.getElementById("listaAmigos").innerText = "";
+    listaDeAmigos = [];
 }
